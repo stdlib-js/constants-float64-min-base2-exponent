@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_MIN_BASE2_EXPONENT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent@deno/mod.js';
+import FLOAT64_MIN_BASE2_EXPONENT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent@v0.2.3-deno/mod.js';
 ```
 
 #### FLOAT64_MIN_BASE2_EXPONENT
@@ -73,7 +73,7 @@ var bool = ( FLOAT64_MIN_BASE2_EXPONENT === -1022 );
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_MIN_BASE2_EXPONENT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent@deno/mod.js';
+import FLOAT64_MIN_BASE2_EXPONENT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-base2-exponent@v0.2.3-deno/mod.js';
 
 console.log( FLOAT64_MIN_BASE2_EXPONENT );
 // => -1022
